@@ -33,7 +33,7 @@ the movies and watch the trailers.
 - make sure your browser is up to date;
 - make sure **Python** is installed on your computer. Otherwise, download and 
   install *Python 2.7.14* from the download page (see Dependencies above);
-- run `entertainment_center.py` from the command line. It should generate and
+- run `python entertainment_center.py` from the command line. It should generate and
   open the webpage with the movies in your default browser;
 - click on the movie to watch its trailer.
 
